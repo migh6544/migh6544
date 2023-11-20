@@ -2,4 +2,4 @@ I am a data analyst at Lockheed Martin, where I have been working since May 2023
 
 As part of the Workforce Intelligence & Technology unit, I collaborate with teams across various departments to understand their business needs and challenges and to provide them with insights and recommendations based on data analysis and modeling. I use project management methods, data science techniques, and business analytics tools to create and implement data pipelines, dashboards, reports, and visualizations. I also leverage machine learning and deep learning to develop and deploy predictive and prescriptive models that enhance the performance and outcomes of complex systems.
 
-Professional | Organized | Structured | Focused | Driven | Creative | Accountable | Problem-solver | Goal-oriented | Strategic-planner | Fast-learner
+Professional | Organized | Structured | Focused | Driven | Creative | Accountable | Problem-solver | Goal-oriented | Strategic-planner
